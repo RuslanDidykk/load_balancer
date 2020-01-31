@@ -1,9 +1,8 @@
-# Created by .ignore support plugin (hsz.mobi)
-
-config.py
+./config.py
 .idea/.gitignore
 .idea/inspectionProfiles/
 .idea/load_balancer.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+config.py
